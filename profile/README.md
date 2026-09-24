@@ -2,15 +2,19 @@
 
 **Nexus** is a Discord and Twitch bot that brings your community together. It announces your streams in Discord the moment you go live, keeps your server informed about Discord, GitHub and Twitch outages, helps you moderate, and adds useful commands to your Twitch chat. Everything can be managed from the [Nexus Dashboard](https://nexus.nerdscode.dev).
 
-**Quick links:** [Dashboard](https://nexus.nerdscode.dev) · [Add to your Twitch channel](https://nexus.nerdscode.dev/dashboard/twitch/join) · [Support server](https://discord.gg/ph8WmyuQRR)
+**Quick links:** [Add to Discord](https://discord.com/oauth2/authorize?client_id=1488183510643773460&permissions=8&scope=bot+applications.commands) · [Add to your Twitch channel](https://nexus.nerdscode.dev/dashboard/twitch/join) · [Dashboard](https://nexus.nerdscode.dev) · [Support server](https://discord.gg/ph8WmyuQRR)
 
 ---
 
 ## Add Nexus to your Discord server
 
+**[Click here to add Nexus to your server](https://discord.com/oauth2/authorize?client_id=1488183510643773460&permissions=8&scope=bot+applications.commands)**, choose your server, and approve the permissions Discord asks for.
+
+Or add it from the dashboard:
+
 1. Go to the [Nexus Dashboard](https://nexus.nerdscode.dev) and sign in with Discord.
 2. Open the **Discord** section to see the servers you manage.
-3. Click **Add Bot** next to your server, and approve the permissions Discord asks for.
+3. Click **Add Bot** next to your server, and approve the permissions.
 
 That's it. Nexus's slash commands appear in your server right away. Type `/` to see them.
 
